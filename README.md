@@ -2,12 +2,9 @@
 AWS and Devops tools
 ---
 
-# AWS with Terraform
-This project demonstrates the creation and management of AWS services using Terraform, showcasing best practices in DevOps and cloud infrastructure management.
-
 ## Project Overview
+The AWS with Terraform project aims to provide a comprehensive example of deploying and managing AWS resources using Terraform. It serves as a practical guide for setting up infrastructure as code, promoting automation, scalability, and maintainability in cloud environments. It involves the deployment of a Flask-based phone book application on Amazon Web Services (AWS) using Infrastructure as Code (IaC) principles with Terraform, with the integration of a managed Relational Database Service (RDS).
 
-The AWS with Terraform project aims to provide a comprehensive example of deploying and managing AWS resources using Terraform. It serves as a practical guide for setting up infrastructure as code, promoting automation, scalability, and maintainability in cloud environments.
 
 ## Features
 
@@ -81,7 +78,7 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 An overview of the project's structure:
-
+![image](https://github.com/user-attachments/assets/849a974d-8044-466b-a191-8a0778099e4e)
 
 - phonebook/: Contains the Python application code and HTML templates.
 - tf-files/: Holds Terraform configuration files for AWS infrastructure.
